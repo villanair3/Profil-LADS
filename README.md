@@ -1,7 +1,6 @@
 
 <html>
-<head>
-<title>Profil Karakter</title>
+<head></head>
 </head>
 <body>
 <h1>Profil singkat karakter love and deepspace</h1>
