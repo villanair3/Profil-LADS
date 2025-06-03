@@ -10,7 +10,7 @@
 
 ## Zayne
 
-! [Foto Zayne] (ba3179d025b290f8f695a21b6d12d7d0)
+! [Foto Zayne]  (ba3179d025b290f8f695a21b6d12d7d0.jpg)
 
 - **Umur:** 27 tahun
 - **Tinggi:** 186 cm
